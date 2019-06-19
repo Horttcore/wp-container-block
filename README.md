@@ -4,19 +4,32 @@ A WordPress Gutenberg container block
 
 ## Features
 
-* Background image and settings
-* Fontcolor
-* Layout alignment styles center, wide, full
-* Margin
-* Padding
+- Background color
+- Background image
+- Background size
+- Background position
+- Background repeat
+- Background attachment
+- Text color
+- Layout alignment styles wide and full
+- Margin
+- Padding
 
 ## Translations
 
-* English
-* German
+- English
+- German
+
+## ToDo
+
+- Fix: i18n translations
 
 ## Changelog
 
-### v0.1.0
+### v1.0 - 2019-06-19
 
-* Initial release
+- Initial release
+
+### v0.1.0 - 2018-09-13
+
+- Initial commit

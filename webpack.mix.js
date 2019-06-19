@@ -12,5 +12,5 @@ let mix = require('laravel-mix');
  */
 
 mix.react('src/index.js', 'dist/js/editor.blocks.js')
-    .sass('src/container/frontend.sass', 'dist/css/frontend.blocks.css')
+    .sass('src/container/editor-styles.sass', 'dist/css/editor-styles.css')
     .sourceMaps();
